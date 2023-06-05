@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/week21_start-React/static/css/main.073c9b0a.css",
+    "main.js": "/week21_start-React/static/js/main.7f7efb4b.js",
+    "static/js/787.cc7fc22c.chunk.js": "/week21_start-React/static/js/787.cc7fc22c.chunk.js",
+    "static/media/logo.svg": "/week21_start-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/week21_start-React/index.html",
+    "main.073c9b0a.css.map": "/week21_start-React/static/css/main.073c9b0a.css.map",
+    "main.7f7efb4b.js.map": "/week21_start-React/static/js/main.7f7efb4b.js.map",
+    "787.cc7fc22c.chunk.js.map": "/week21_start-React/static/js/787.cc7fc22c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f7efb4b.js"
+  ]
+}
